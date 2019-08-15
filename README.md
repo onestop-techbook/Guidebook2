@@ -11,6 +11,18 @@
 がんばって、10月中には事務局原稿を書き上げましょう。
 
 ## 執筆にあたってのお願い
+app-dev.jsonの後半に、原稿ファイルを指定してください。
+
+    "CHAPS": [
+      "chap-easybooks.md",
+      "chap-placeholder.md",
+      "chap-software-design.md",
+      "chap-ui-design.md"
+      ここに追加。カンマ（,）で区切ってね。
+    ],
+
+画像は、chap-easybooksのように、原稿ファイル名でフォルダを作って、そこに格納。
+
 CIでコンパイルが通ることを確認してください。エラーのまま放置はなるべくやめてください。
 
 Confrictが発生した場合は、解決お願いします。

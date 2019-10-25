@@ -27,9 +27,10 @@
     "PREDEF": ["preface.re"],
     "CHAPS": [
       "chap-easybooks.md",
-      "chap-placeholder.md",
-      "chap-software-design.md",
-      "chap-ui-design.md"
+      "chap-teihen.md",
+      "chap-oyakata-pdf.md",
+      "chap-guidebook.md",
+      "chap-printflyer.md"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }

@@ -4,13 +4,15 @@
 
 技術書同人誌博覧会ご参加の皆様、はじめましてpolymonyRksと申します。普段はメーカーで画像処理関連のソフトウェア開発をしております。
 
-数カ月前に、運営様開催の「技術書を執筆しよう！初心者向け勉強会」（https://gishohaku.connpass.com/）に参加させていただきました。
+数カ月前に、運営様開催の「技術書を執筆しよう！初心者向け勉強会」[^connpass]に参加させていただきました。
 それをきっかけに、本公式ガイドブックに寄稿する機会をいただけました。運営様ありがとうございました。  
 
 さて、私は趣味でプログラミング言語Haskellで電子文書リーダーを開発しています（https://www.polymony.net）。
 文章を文法に従い着色（シンタクスハイライト）することで速読と精読を可能とするものです。  
 
 今回は、その技術についてご紹介します（なお、以下の各強調(ボールド体、イタリック体など)は、本当は「着色している」と想定して読んでください）。
+
+[^connpass]: https://gishohaku.connpass.com/
 
 ## 技術紹介
 速読、精読の対象として、専門書や技術書を想定しています。一部の速読エリートを除けば、これらの本を速読するのは難しいと見ています。
@@ -44,11 +46,7 @@ answerIsEven n
 
 ### 名詞句単位の着色
 
-#### 具体例
-
-まずは以下の２つの文章を比較してみてください。  
-
-　
+具体例として、まずは以下の２つの文章を比較してみてください。  
 
 #### [column] ケースA  
 
@@ -59,7 +57,6 @@ answerIsEven n
 私たち運営事務局は、 **エンジニアによるアウトプットを推進し** 、 **知識の共有によってより良いエンジニアコミュニティを築き** 、また参加される皆さんが **共に成長することを望んでいます** 。  
 
 #### [/column] 
-　  
 
 #### [column] ケースB  
 
@@ -70,11 +67,9 @@ answerIsEven n
 私たち運営事務局は、 **エンジニア** による **アウトプット** を推進し、 **知識の共有** によって **より良いエンジニアコミュニティ** を築き、また参加される皆さんが **共に成長すること** を望んでいます。  
 
 #### [/column] 
-　
+
 
 （ケースB)のほうがグッと読みやすくなっていますね（筆者は手間ですが）。さらに下の拙い英文も見てください。  
-
-　
 
 #### [column] ケースC  
 We make some toy programs in Haskell. The current one is a viewer for PDF Documents, characterized by ad hoc coloring of noun phrases for fast and accurate reading. There is another delimiter other than space.  
@@ -84,7 +79,6 @@ We make some toy programs in Haskell. The current one is a viewer for PDF Docume
 #### [column] ケースD  
 We make **some toy programs** in **Haskell**. **The current one** is **a viewer** for **PDF Documents**, characterized by **ad hoc coloring** of **noun phrases** for **fast and accurate reading**. There is **another delimiter** other than **space**.  
 #### [/column] 
-　　  
 
 英語が読める人は(ケースC)が（ケースD）のように見えているはずです。英語が苦手な人は、こういう単位を意識したほうが良いです。さて、これらは強調箇所はいずれも「名詞句」に相当しています。  
 
@@ -133,7 +127,6 @@ We make **some toy programs** in **Haskell**. **The current one** is **a viewer*
 
 (ケースG)と (ケースH)で、どういう意図で着色しているか分かりますか？
 
-　
 
 #### [column] ケースG
 

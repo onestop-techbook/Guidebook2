@@ -30,6 +30,8 @@
       "chap-teihen.md",
       "chap-guidebook.md",
       "chap-printflyer.md",
+      "chap-miti843.md",
+      "chap-natlangsyntax.md",
       "chap-blog.md"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]

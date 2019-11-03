@@ -109,7 +109,7 @@ We make **some toy programs** in **Haskell**. **The current one** is **a viewer*
 いかがですか？再度述べますが、実際には色を使い分けていると想像してください。
 なお、名詞句単位でやらないと以下の(ケースF)のようにキメラ状態になってしまいます。
 
-[//blankline]
+[//blankline:]
 
 **（ケースF）**  
 

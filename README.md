@@ -6,7 +6,7 @@
 ## この本の目的
 
 事務局原稿とスポンサー記事をここで書きます。
-えるきちさん開発のEasybookに対応したので、mdのままでも行けるはず。
+えるきちさん開発の[easybook](https://github.com/erukiti/easybooks)に対応したので、mdのままでも行けるはず。
 
 がんばって、10月中には事務局原稿を書き上げましょう。
 
@@ -63,7 +63,7 @@ $ docker run --rm -v `pwd`:/work vvakame/review /bin/sh -c "cd /work/articles ; 
 ### Docker使わずビルド
 
 ```sh
-cd articles ; review pdfmaker config.yml
+$ npm install; npm run build
 ```
 
 ### 権利

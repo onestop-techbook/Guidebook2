@@ -29,7 +29,8 @@
       "chap-easybooks.md",
       "chap-teihen.md",
       "chap-guidebook.md",
-      "chap-printflyer.md"
+      "chap-printflyer.md",
+      "chap-blog.md"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }

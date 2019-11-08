@@ -33,7 +33,8 @@
       "chap-miti843.md",
       "chap-natlangsyntax.md",
       "chap-blog.md",
-      "chap-hallsetup.md"
+      "chap-hallsetup.md",
+      "chap-matsui.md"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }

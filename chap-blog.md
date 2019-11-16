@@ -1,10 +1,10 @@
 # 第1回技書博の声
 
-ときどきブログを書かせてもらっている**[ざき@zucky_zakizaki](https://twitter.com/zucky_zakizaki)**と言います。
+ときどきブログを書かせてもらっている**ざき@zucky_zakizaki**と言います。
 
 この度は、第2回技書博へのご参加、また、ガイドブックを手に取っていただきありがとうございます！
 
-本章では、[技書博公式ブログ](https://blog.gishohaku.dev)に投稿した、以下第1回技書博のアンケート結果記事 [^link1] [^link2] [^link3] [^link4] の内容を抜粋・刷新したまとめを記載します。
+本章では、技書博公式ブログ(https://blog.gishohaku.dev)に投稿した、以下第1回技書博のアンケート結果記事 [^link1] [^link2] [^link3] [^link4] の内容を抜粋・刷新したまとめを記載します。
 
 [^link1]: 【第1回 技書博】技書博開催レポート - 数値編 https://blog.gishohaku.dev/entry/2019/07/29/113159
 [^link2]: 【第1回 技書博】技書博開催レポート - 一般参加者 アンケート結果編　https://blog.gishohaku.dev/entry/2019/08/14/175517
@@ -52,7 +52,7 @@ PeatiX | 37/145 | 25.5%
 Doorkeeper | 30/145 | 20.7%
 Eventbrite | 11/145 | 7.6%
 
-今回、受付では[PassMarket](https://passmarket.yahoo.co.jp)というサービスを使い参加者入場のチェックを行いました。
+今回、受付ではPassMarket (https://passmarket.yahoo.co.jp)というサービスを使い参加者入場のチェックを行いました。
 
 1. 参加者がQRコードを表示する
 2. 受付でQRコードをチェック

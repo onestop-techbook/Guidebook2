@@ -4,12 +4,12 @@
 
 この度は、第2回技書博へのご参加、また、ガイドブックを手に取っていただきありがとうございます！
 
-本章では、[技書博公式ブログ](https://blog.gishohaku.dev)に投稿した、以下第1回技書博のアンケート結果記事[^link1][^link2][^link3][^link4]の内容を抜粋・刷新したまとめを記載します。
+本章では、[技書博公式ブログ](https://blog.gishohaku.dev)に投稿した、以下第1回技書博のアンケート結果記事 [^link1] [^link2] [^link3] [^link4] の内容を抜粋・刷新したまとめを記載します。
 
-[^link1]: https://blog.gishohaku.dev/entry/2019/07/29/113159
-[^link2]: https://blog.gishohaku.dev/entry/2019/08/14/175517
-[^link3]: https://blog.gishohaku.dev/entry/2019/08/25/124514
-[^link4]: https://blog.gishohaku.dev/entry/2019/07/31/124538
+[^link1]: 【第1回 技書博】技書博開催レポート - 数値編 https://blog.gishohaku.dev/entry/2019/07/29/113159
+[^link2]: 【第1回 技書博】技書博開催レポート - 一般参加者 アンケート結果編　https://blog.gishohaku.dev/entry/2019/08/14/175517
+[^link3]: 【第1回 技書博】技書博開催レポート - サークル参加 アンケート結果編https://blog.gishohaku.dev/entry/2019/08/25/124514
+[^link4]: 【第1回 技書博】技書博開催レポート - チェック数編　https://blog.gishohaku.dev/entry/2019/07/31/124538
 
 第1回・第2回と参加してくださった方は、技書博どう変わっているか（継続できている・良くなった・悪くなった）を、ぜひ第2回技書博のアンケートへフィードバックのご協力いただけると助かります。
 

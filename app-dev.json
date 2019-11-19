@@ -35,7 +35,8 @@
       "chap-blog.md",
       "chap-hallsetup.md",
       "chap-matsui.md",
-      "chap-haichi.re"
+      "chap-haichi.re",
+      "chap-grasys.md"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }

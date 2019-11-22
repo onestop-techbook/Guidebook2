@@ -37,7 +37,8 @@
       "chap-haichi.re",
       "chap-sakura.md",
       "chap-guidebook.md",
-      "chap-kihonjoho.md"
+      "chap-kihonjoho.md",
+      "gishohaku-graat.md"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }

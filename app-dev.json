@@ -36,7 +36,8 @@
       "chap-matsui.md",
       "chap-haichi.re",
       "chap-sakura.md",
-      "chap-guidebook.md"
+      "chap-guidebook.md",
+      "chap-kihonjoho.md"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }

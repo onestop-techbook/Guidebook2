@@ -26,19 +26,18 @@
   "catalog": {
     "PREDEF": ["preface.re"],
     "CHAPS": [
-
       "chap-teihen.md",
-      "chap-printflyer.md",
       "chap-miti843.md",
-      "chap-natlangsyntax.md",
+      "chap-matsui.md",
+      "chap-printflyer.md",
       "chap-blog.md",
       "chap-hallsetup.md",
-      "chap-matsui.md",
       "chap-haichi.re",
-      "chap-sakura.md",
       "chap-guidebook.md",
+      "chap-natlangsyntax.md",
       "chap-kihonjoho.md",
-      "gishohaku-graat.md"
+      "gishohaku-graat.md",
+      "chap-sakura.md"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }
